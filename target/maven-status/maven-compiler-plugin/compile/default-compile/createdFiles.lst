@@ -1,0 +1,6 @@
+com\signup\SignUp\entities\Login.class
+com\signup\SignUp\entities\Student.class
+com\signup\SignUp\SignUpApplication.class
+com\signup\SignUp\controllers\SignUpController.class
+com\signup\SignUp\dao\StudentRepository.class
+com\signup\SignUp\service\Services.class
